@@ -72,6 +72,11 @@ body {
     margin: 20px 0 0;
 }
 
+.footer-subtitle p {
+    margin: 0 auto;
+    text-align: center;
+}
+
 .footer-colors {
     display: flex;
     flex-direction: row;
